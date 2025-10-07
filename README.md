@@ -1,6 +1,6 @@
-# Quran Web
+# Al-Quran Web
 
-Quran Web is a modern web app for reading and listening to the entire Quran. It provides access to 114 Surahs, audio recitations from various Qaris, Latin transliteration, and Indonesian translations. 
+Al-Quran Web is a modern web app for reading and listening to the entire Quran. It provides access to 114 Surahs, audio recitations from various Qaris, Latin transliteration, and Indonesian translations. 
 
 ---
 
